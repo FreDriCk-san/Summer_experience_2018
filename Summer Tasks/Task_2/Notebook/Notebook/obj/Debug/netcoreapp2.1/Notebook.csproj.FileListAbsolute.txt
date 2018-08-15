@@ -1,0 +1,33 @@
+D:/Tasks (from SIBERS)/Task_2/Notebook/Notebook/bin/Debug/netcoreapp2.1/Notebook.deps.json
+D:/Tasks (from SIBERS)/Task_2/Notebook/Notebook/bin/Debug/netcoreapp2.1/Notebook.runtimeconfig.json
+D:/Tasks (from SIBERS)/Task_2/Notebook/Notebook/bin/Debug/netcoreapp2.1/Notebook.runtimeconfig.dev.json
+D:/Tasks (from SIBERS)/Task_2/Notebook/Notebook/bin/Debug/netcoreapp2.1/Notebook.dll
+D:/Tasks (from SIBERS)/Task_2/Notebook/Notebook/bin/Debug/netcoreapp2.1/Notebook.pdb
+D:/Tasks (from SIBERS)/Task_2/Notebook/Notebook/obj/Debug/netcoreapp2.1/Notebook.csprojAssemblyReference.cache
+D:/Tasks (from SIBERS)/Task_2/Notebook/Notebook/obj/Debug/netcoreapp2.1/Notebook.csproj.CoreCompileInputs.cache
+D:/Tasks (from SIBERS)/Task_2/Notebook/Notebook/obj/Debug/netcoreapp2.1/Notebook.AssemblyInfoInputs.cache
+D:/Tasks (from SIBERS)/Task_2/Notebook/Notebook/obj/Debug/netcoreapp2.1/Notebook.AssemblyInfo.cs
+D:/Tasks (from SIBERS)/Task_2/Notebook/Notebook/obj/Debug/netcoreapp2.1/Notebook.dll
+D:/Tasks (from SIBERS)/Task_2/Notebook/Notebook/obj/Debug/netcoreapp2.1/Notebook.pdb
+/home/fredrick-san/Downloads/Tasks (from SIBERS)/Task_2/Notebook/Notebook/bin/Debug/netcoreapp2.1/Notebook.deps.json
+/home/fredrick-san/Downloads/Tasks (from SIBERS)/Task_2/Notebook/Notebook/bin/Debug/netcoreapp2.1/Notebook.runtimeconfig.json
+/home/fredrick-san/Downloads/Tasks (from SIBERS)/Task_2/Notebook/Notebook/bin/Debug/netcoreapp2.1/Notebook.runtimeconfig.dev.json
+/home/fredrick-san/Downloads/Tasks (from SIBERS)/Task_2/Notebook/Notebook/bin/Debug/netcoreapp2.1/Notebook.dll
+/home/fredrick-san/Downloads/Tasks (from SIBERS)/Task_2/Notebook/Notebook/bin/Debug/netcoreapp2.1/Notebook.pdb
+/home/fredrick-san/Downloads/Tasks (from SIBERS)/Task_2/Notebook/Notebook/obj/Debug/netcoreapp2.1/Notebook.csprojAssemblyReference.cache
+/home/fredrick-san/Downloads/Tasks (from SIBERS)/Task_2/Notebook/Notebook/obj/Debug/netcoreapp2.1/Notebook.csproj.CoreCompileInputs.cache
+/home/fredrick-san/Downloads/Tasks (from SIBERS)/Task_2/Notebook/Notebook/obj/Debug/netcoreapp2.1/Notebook.AssemblyInfoInputs.cache
+/home/fredrick-san/Downloads/Tasks (from SIBERS)/Task_2/Notebook/Notebook/obj/Debug/netcoreapp2.1/Notebook.AssemblyInfo.cs
+/home/fredrick-san/Downloads/Tasks (from SIBERS)/Task_2/Notebook/Notebook/obj/Debug/netcoreapp2.1/Notebook.dll
+/home/fredrick-san/Downloads/Tasks (from SIBERS)/Task_2/Notebook/Notebook/obj/Debug/netcoreapp2.1/Notebook.pdb
+D:\Собеседования 2018 (лето)\Tasks (from SIBERS)\Summer Tasks\Task_2\Notebook\Notebook\bin\Debug\netcoreapp2.1\Notebook.deps.json
+D:\Собеседования 2018 (лето)\Tasks (from SIBERS)\Summer Tasks\Task_2\Notebook\Notebook\bin\Debug\netcoreapp2.1\Notebook.runtimeconfig.json
+D:\Собеседования 2018 (лето)\Tasks (from SIBERS)\Summer Tasks\Task_2\Notebook\Notebook\bin\Debug\netcoreapp2.1\Notebook.runtimeconfig.dev.json
+D:\Собеседования 2018 (лето)\Tasks (from SIBERS)\Summer Tasks\Task_2\Notebook\Notebook\bin\Debug\netcoreapp2.1\Notebook.dll
+D:\Собеседования 2018 (лето)\Tasks (from SIBERS)\Summer Tasks\Task_2\Notebook\Notebook\bin\Debug\netcoreapp2.1\Notebook.pdb
+D:\Собеседования 2018 (лето)\Tasks (from SIBERS)\Summer Tasks\Task_2\Notebook\Notebook\obj\Debug\netcoreapp2.1\Notebook.csprojAssemblyReference.cache
+D:\Собеседования 2018 (лето)\Tasks (from SIBERS)\Summer Tasks\Task_2\Notebook\Notebook\obj\Debug\netcoreapp2.1\Notebook.csproj.CoreCompileInputs.cache
+D:\Собеседования 2018 (лето)\Tasks (from SIBERS)\Summer Tasks\Task_2\Notebook\Notebook\obj\Debug\netcoreapp2.1\Notebook.AssemblyInfoInputs.cache
+D:\Собеседования 2018 (лето)\Tasks (from SIBERS)\Summer Tasks\Task_2\Notebook\Notebook\obj\Debug\netcoreapp2.1\Notebook.AssemblyInfo.cs
+D:\Собеседования 2018 (лето)\Tasks (from SIBERS)\Summer Tasks\Task_2\Notebook\Notebook\obj\Debug\netcoreapp2.1\Notebook.dll
+D:\Собеседования 2018 (лето)\Tasks (from SIBERS)\Summer Tasks\Task_2\Notebook\Notebook\obj\Debug\netcoreapp2.1\Notebook.pdb

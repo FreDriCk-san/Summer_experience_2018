@@ -1,0 +1,33 @@
+D:/Tasks (from SIBERS)/Task_1/Client/Client/bin/Debug/netcoreapp2.1/Client.deps.json
+D:/Tasks (from SIBERS)/Task_1/Client/Client/bin/Debug/netcoreapp2.1/Client.runtimeconfig.json
+D:/Tasks (from SIBERS)/Task_1/Client/Client/bin/Debug/netcoreapp2.1/Client.runtimeconfig.dev.json
+D:/Tasks (from SIBERS)/Task_1/Client/Client/bin/Debug/netcoreapp2.1/Client.dll
+D:/Tasks (from SIBERS)/Task_1/Client/Client/bin/Debug/netcoreapp2.1/Client.pdb
+D:/Tasks (from SIBERS)/Task_1/Client/Client/obj/Debug/netcoreapp2.1/Client.csprojAssemblyReference.cache
+D:/Tasks (from SIBERS)/Task_1/Client/Client/obj/Debug/netcoreapp2.1/Client.csproj.CoreCompileInputs.cache
+D:/Tasks (from SIBERS)/Task_1/Client/Client/obj/Debug/netcoreapp2.1/Client.AssemblyInfoInputs.cache
+D:/Tasks (from SIBERS)/Task_1/Client/Client/obj/Debug/netcoreapp2.1/Client.AssemblyInfo.cs
+D:/Tasks (from SIBERS)/Task_1/Client/Client/obj/Debug/netcoreapp2.1/Client.dll
+D:/Tasks (from SIBERS)/Task_1/Client/Client/obj/Debug/netcoreapp2.1/Client.pdb
+/home/fredrick-san/Downloads/Tasks (from SIBERS)/Task_1/Client/Client/bin/Debug/netcoreapp2.1/Client.deps.json
+/home/fredrick-san/Downloads/Tasks (from SIBERS)/Task_1/Client/Client/bin/Debug/netcoreapp2.1/Client.runtimeconfig.json
+/home/fredrick-san/Downloads/Tasks (from SIBERS)/Task_1/Client/Client/bin/Debug/netcoreapp2.1/Client.runtimeconfig.dev.json
+/home/fredrick-san/Downloads/Tasks (from SIBERS)/Task_1/Client/Client/bin/Debug/netcoreapp2.1/Client.dll
+/home/fredrick-san/Downloads/Tasks (from SIBERS)/Task_1/Client/Client/bin/Debug/netcoreapp2.1/Client.pdb
+/home/fredrick-san/Downloads/Tasks (from SIBERS)/Task_1/Client/Client/obj/Debug/netcoreapp2.1/Client.csprojAssemblyReference.cache
+/home/fredrick-san/Downloads/Tasks (from SIBERS)/Task_1/Client/Client/obj/Debug/netcoreapp2.1/Client.csproj.CoreCompileInputs.cache
+/home/fredrick-san/Downloads/Tasks (from SIBERS)/Task_1/Client/Client/obj/Debug/netcoreapp2.1/Client.AssemblyInfoInputs.cache
+/home/fredrick-san/Downloads/Tasks (from SIBERS)/Task_1/Client/Client/obj/Debug/netcoreapp2.1/Client.AssemblyInfo.cs
+/home/fredrick-san/Downloads/Tasks (from SIBERS)/Task_1/Client/Client/obj/Debug/netcoreapp2.1/Client.dll
+/home/fredrick-san/Downloads/Tasks (from SIBERS)/Task_1/Client/Client/obj/Debug/netcoreapp2.1/Client.pdb
+D:\Собеседования 2018 (лето)\Tasks (from SIBERS)\Summer Tasks\Task_1\Client\Client\bin\Debug\netcoreapp2.1\Client.deps.json
+D:\Собеседования 2018 (лето)\Tasks (from SIBERS)\Summer Tasks\Task_1\Client\Client\bin\Debug\netcoreapp2.1\Client.runtimeconfig.json
+D:\Собеседования 2018 (лето)\Tasks (from SIBERS)\Summer Tasks\Task_1\Client\Client\bin\Debug\netcoreapp2.1\Client.runtimeconfig.dev.json
+D:\Собеседования 2018 (лето)\Tasks (from SIBERS)\Summer Tasks\Task_1\Client\Client\bin\Debug\netcoreapp2.1\Client.dll
+D:\Собеседования 2018 (лето)\Tasks (from SIBERS)\Summer Tasks\Task_1\Client\Client\bin\Debug\netcoreapp2.1\Client.pdb
+D:\Собеседования 2018 (лето)\Tasks (from SIBERS)\Summer Tasks\Task_1\Client\Client\obj\Debug\netcoreapp2.1\Client.csprojAssemblyReference.cache
+D:\Собеседования 2018 (лето)\Tasks (from SIBERS)\Summer Tasks\Task_1\Client\Client\obj\Debug\netcoreapp2.1\Client.csproj.CoreCompileInputs.cache
+D:\Собеседования 2018 (лето)\Tasks (from SIBERS)\Summer Tasks\Task_1\Client\Client\obj\Debug\netcoreapp2.1\Client.AssemblyInfoInputs.cache
+D:\Собеседования 2018 (лето)\Tasks (from SIBERS)\Summer Tasks\Task_1\Client\Client\obj\Debug\netcoreapp2.1\Client.AssemblyInfo.cs
+D:\Собеседования 2018 (лето)\Tasks (from SIBERS)\Summer Tasks\Task_1\Client\Client\obj\Debug\netcoreapp2.1\Client.dll
+D:\Собеседования 2018 (лето)\Tasks (from SIBERS)\Summer Tasks\Task_1\Client\Client\obj\Debug\netcoreapp2.1\Client.pdb

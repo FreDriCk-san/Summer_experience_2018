@@ -1,0 +1,19 @@
+First of all, install ".NET SDK" on your PC. Use a link below or call a script, named with your OS, from the folder "DotNet SDK" [Example 1].
+
+
+
+//-------Example 1---------//
+
+cd ...Your path to folder "Summer Tasks".../DotNet\ SDK/
+
+sh Ubuntu_(18.04).sh
+
+//-------------------------//
+
+
+
+Link: https://www.microsoft.com/net/download/linux
+
+
+
+Each folder(task) have a README file. Be sure to read them!
